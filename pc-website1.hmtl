@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<html>
 <head>
  <title>Hello!</title>
 </head>
@@ -7,4 +8,6 @@
 <body>
     Hello, world!
 </body>
+<table> 2 </table>
 </html>
+
