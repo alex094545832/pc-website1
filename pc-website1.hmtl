@@ -2,12 +2,22 @@
 <html lang="en">
 <html>
 <head>
- <title>Hello!</title>
+    <div class="logo image">
+ <img src="company logo.png" width="375" height="125" alt="Logo">
+</div>
+<style>
+.logo image{
+align-items: start;
+
+
+}
+</style>
 </head>
 <subheading> welcome to my web site!</subheading>
 <body>
     Hello, world!
 </body>
 <table> 2 </table>
+
 </html>
 
