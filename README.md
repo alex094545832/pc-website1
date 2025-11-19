@@ -7,7 +7,7 @@
 </div>
 <style>
 .logo image{
-align-items: start;
+align-items: left;
 
 
 }
