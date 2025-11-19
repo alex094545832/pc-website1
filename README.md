@@ -28,6 +28,5 @@ font-family: sans-serif;
 <body>
     Hello, world!
 </body>
-<table> 2 </table>
 
 </html>
