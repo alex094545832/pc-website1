@@ -26,3 +26,9 @@ font-family: sans-serif;
 
 </style>
 </div>
+<body>
+    Hello, world!
+</body>
+<table> 2 </table>
+
+</html>
