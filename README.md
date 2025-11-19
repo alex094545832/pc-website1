@@ -18,9 +18,8 @@ align-items: start;
 <style> 
 .subheading1{
 font-family: sans-serif;
- background-color: #f2f2f2;
   margin: 0;
-  padding: 20px;
+ 
 }
 
 </style>
