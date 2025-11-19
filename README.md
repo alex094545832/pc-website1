@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <html>
     <link rel="C:\Users\zim19\OneDrive\Documents\GitHub\pc-website1\pc-website1\pc-website1.hmtl" href="website css2">
 <head>
-    
+<div> 
  <img src="company logo.png" width="375" height="125" alt="Logo">
 </div>
 <style>
